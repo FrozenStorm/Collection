@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Primzahlen">
+</Property><Property Name="Projektmappendatei" Value="C:\Users\Daniel\Dropbox\Work\Programmieren\Collection_exe_installer\Collection\Backup\Primzahlen.sln">
+</Property><Property Name="Date" Value="Donnerstag, 16. Januar 2014">
+</Property><Property Name="Time" Value="11:03:25">
+</Property></Properties><Event ErrorLevel="0" Project="Primzahlen" Source="Primzahlen.csproj" Description="Projektdatei erfolgreich gesichert als C:\Users\Daniel\Dropbox\Work\Programmieren\Collection_exe_installer\Collection\Backup\Backup\Primzahlen.csproj">
+</Event><Event ErrorLevel="0" Project="Primzahlen" Source="Primzahlen.csproj.user" Description="Die Projektbenutzerdatei wurde erfolgreich als &quot;C:\Users\Daniel\Dropbox\Work\Programmieren\Collection_exe_installer\Collection\Backup\Backup\Primzahlen.csproj.user&quot; gesichert.">
+</Event><Event ErrorLevel="0" Project="Primzahlen" Source="Program.cs" Description="Datei erfolgreich gesichert als C:\Users\Daniel\Dropbox\Work\Programmieren\Collection_exe_installer\Collection\Backup\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="Primzahlen" Source="Properties\AssemblyInfo.cs" Description="Datei erfolgreich gesichert als C:\Users\Daniel\Dropbox\Work\Programmieren\Collection_exe_installer\Collection\Backup\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Primzahlen" Source="Primzahlen.csproj" Description="Projekt erfolgreich konvertiert">
+</Event><Event ErrorLevel="3" Project="Primzahlen" Source="Primzahlen.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Primzahlen" Source="Primzahlen.csproj" Description="Überprüfung abgeschlossen: Upgrade der Projektdateien nicht erforderlich.">
+</Event></UpgradeLog>
