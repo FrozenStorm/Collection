@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Earth.png</Source>
+      <Name>Earth</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Dropbox\Work\Programmieren\Collection_exe_installer\Collection\Bildschirmschoner Weltraum\Gravitation\Gravitation\bin\x86\Debug\Content\Earth.xnb</Output>
+      <Time>2011-02-10T12:28:54+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sun.png</Source>
+      <Name>Sun</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Dropbox\Work\Programmieren\Collection_exe_installer\Collection\Bildschirmschoner Weltraum\Gravitation\Gravitation\bin\x86\Debug\Content\Sun.xnb</Output>
+      <Time>2011-02-10T12:28:54+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Galaxy.jpg</Source>
+      <Name>Galaxy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Dropbox\Work\Programmieren\Collection_exe_installer\Collection\Bildschirmschoner Weltraum\Gravitation\Gravitation\bin\x86\Debug\Content\Galaxy.xnb</Output>
+      <Time>2011-02-10T12:44:40+01:00</Time>
+    </Item>
+    <Item>
+      <Source>explosion.png</Source>
+      <Name>explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Dropbox\Work\Programmieren\Collection_exe_installer\Collection\Bildschirmschoner Weltraum\Gravitation\Gravitation\bin\x86\Debug\Content\explosion.xnb</Output>
+      <Time>2011-02-10T16:03:25+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Plasma Hintergrund.png</Source>
+      <Name>Plasma Hintergrund</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Dropbox\Work\Programmieren\Collection_exe_installer\Collection\Bildschirmschoner Weltraum\Gravitation\Gravitation\bin\x86\Debug\Content\Plasma Hintergrund.xnb</Output>
+      <Time>2011-02-11T08:41:53+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Plasma Weiss.png</Source>
+      <Name>Plasma Weiss</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Dropbox\Work\Programmieren\Collection_exe_installer\Collection\Bildschirmschoner Weltraum\Gravitation\Gravitation\bin\x86\Debug\Content\Plasma Weiss.xnb</Output>
+      <Time>2011-02-14T20:44:56+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Plasma1.png</Source>
+      <Name>Plasma1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Dropbox\Work\Programmieren\Collection_exe_installer\Collection\Bildschirmschoner Weltraum\Gravitation\Gravitation\bin\x86\Debug\Content\Plasma1.xnb</Output>
+      <Time>2011-02-11T08:41:53+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Plasma2.png</Source>
+      <Name>Plasma2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Dropbox\Work\Programmieren\Collection_exe_installer\Collection\Bildschirmschoner Weltraum\Gravitation\Gravitation\bin\x86\Debug\Content\Plasma2.xnb</Output>
+      <Time>2011-02-11T08:41:53+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Plasmagreen1.png</Source>
+      <Name>Plasmagreen1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Dropbox\Work\Programmieren\Collection_exe_installer\Collection\Bildschirmschoner Weltraum\Gravitation\Gravitation\bin\x86\Debug\Content\Plasmagreen1.xnb</Output>
+      <Time>2011-02-11T08:41:53+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Daniel\Dropbox\Work\Programmieren\Collection_exe_installer\Collection\Bildschirmschoner Weltraum\Gravitation\GravitationContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Daniel\Dropbox\Work\Programmieren\Collection_exe_installer\Collection\Bildschirmschoner Weltraum\Gravitation\Gravitation\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Daniel\Dropbox\Work\Programmieren\Collection_exe_installer\Collection\Bildschirmschoner Weltraum\Gravitation\GravitationContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Daniel\Dropbox\Work\Programmieren\Collection_exe_installer\Collection\Bildschirmschoner Weltraum\Gravitation\Gravitation\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-02-06T16:46:25.2076092+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

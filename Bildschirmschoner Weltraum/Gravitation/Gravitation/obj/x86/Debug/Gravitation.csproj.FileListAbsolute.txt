@@ -1,0 +1,77 @@
+C:\Documents and Settings\nzwygd\Desktop\Gravitation\Gravitation\Gravitation\bin\x86\Debug\Gravitation.exe
+C:\Documents and Settings\nzwygd\Desktop\Gravitation\Gravitation\Gravitation\bin\x86\Debug\Gravitation.pdb
+C:\Documents and Settings\nzwygd\Desktop\Gravitation\Gravitation\Gravitation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\nzwygd\Desktop\Gravitation\Gravitation\Gravitation\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\nzwygd\Desktop\Gravitation\Gravitation\Gravitation\obj\x86\Debug\Gravitation.exe
+C:\Documents and Settings\nzwygd\Desktop\Gravitation\Gravitation\Gravitation\obj\x86\Debug\Gravitation.pdb
+C:\Documents and Settings\nzwygd\Desktop\Gravitation\Gravitation\Gravitation\bin\x86\Debug\Content\Ghost.xnb
+C:\Documents and Settings\nzwygd\Desktop\Gravitation\Gravitation\Gravitation\bin\x86\Debug\Content\Coin.xnb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\Gravitation\Gravitation\Gravitation\bin\x86\Debug\Content\Ghost.xnb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\Gravitation\Gravitation\Gravitation\bin\x86\Debug\Content\Coin.xnb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\Gravitation\Gravitation\Gravitation\bin\x86\Debug\Gravitation.exe
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\Gravitation\Gravitation\Gravitation\bin\x86\Debug\Gravitation.pdb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\Gravitation\Gravitation\Gravitation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\Gravitation\Gravitation\Gravitation\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\Gravitation\Gravitation\Gravitation\obj\x86\Debug\Gravitation.exe
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\Gravitation\Gravitation\Gravitation\obj\x86\Debug\Gravitation.pdb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\C# XNA\Gravitation\Gravitation\Gravitation\bin\x86\Debug\Content\Ghost.xnb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\C# XNA\Gravitation\Gravitation\Gravitation\bin\x86\Debug\Content\Coin.xnb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\C# XNA\Gravitation\Gravitation\Gravitation\bin\x86\Debug\Gravitation.exe
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\C# XNA\Gravitation\Gravitation\Gravitation\bin\x86\Debug\Gravitation.pdb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\C# XNA\Gravitation\Gravitation\Gravitation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\C# XNA\Gravitation\Gravitation\Gravitation\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\C# XNA\Gravitation\Gravitation\Gravitation\obj\x86\Debug\Gravitation.exe
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\C# XNA\Gravitation\Gravitation\Gravitation\obj\x86\Debug\Gravitation.pdb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\C# XNA\Simulation Gravitation Real\Gravitation\Gravitation\bin\x86\Debug\Gravitation.exe
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\C# XNA\Simulation Gravitation Real\Gravitation\Gravitation\bin\x86\Debug\Gravitation.pdb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\C# XNA\Simulation Gravitation Real\Gravitation\Gravitation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\C# XNA\Simulation Gravitation Real\Gravitation\Gravitation\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\C# XNA\Simulation Gravitation Real\Gravitation\Gravitation\obj\x86\Debug\Gravitation.exe
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\C# XNA\Simulation Gravitation Real\Gravitation\Gravitation\obj\x86\Debug\Gravitation.pdb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\C# XNA\Simulation Gravitation Real\Gravitation\Gravitation\bin\x86\Debug\Content\Earth.xnb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\C# XNA\Simulation Gravitation Real\Gravitation\Gravitation\bin\x86\Debug\Content\Sun.xnb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\C# XNA\Bildschirmschoner Weltraum\Gravitation\Gravitation\bin\x86\Debug\Content\Earth.xnb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\C# XNA\Bildschirmschoner Weltraum\Gravitation\Gravitation\bin\x86\Debug\Content\Sun.xnb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\C# XNA\Bildschirmschoner Weltraum\Gravitation\Gravitation\bin\x86\Debug\Gravitation.exe
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\C# XNA\Bildschirmschoner Weltraum\Gravitation\Gravitation\bin\x86\Debug\Gravitation.pdb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\C# XNA\Bildschirmschoner Weltraum\Gravitation\Gravitation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\C# XNA\Bildschirmschoner Weltraum\Gravitation\Gravitation\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\C# XNA\Bildschirmschoner Weltraum\Gravitation\Gravitation\obj\x86\Debug\Gravitation.exe
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\C# XNA\Bildschirmschoner Weltraum\Gravitation\Gravitation\obj\x86\Debug\Gravitation.pdb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\C# XNA\Bildschirmschoner Weltraum\Gravitation\Gravitation\bin\x86\Debug\Content\Galaxy.xnb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\C# XNA\Bildschirmschoner Weltraum\Gravitation\Gravitation\bin\x86\Debug\Content\explosion.xnb
+C:\Users\Daniel\My Dropbox\Programme\C# XNA\Bildschirmschoner Weltraum\Gravitation\Gravitation\bin\x86\Debug\Content\Earth.xnb
+C:\Users\Daniel\My Dropbox\Programme\C# XNA\Bildschirmschoner Weltraum\Gravitation\Gravitation\bin\x86\Debug\Content\Sun.xnb
+C:\Users\Daniel\My Dropbox\Programme\C# XNA\Bildschirmschoner Weltraum\Gravitation\Gravitation\bin\x86\Debug\Content\Galaxy.xnb
+C:\Users\Daniel\My Dropbox\Programme\C# XNA\Bildschirmschoner Weltraum\Gravitation\Gravitation\bin\x86\Debug\Content\explosion.xnb
+C:\Users\Daniel\My Dropbox\Programme\C# XNA\Bildschirmschoner Weltraum\Gravitation\Gravitation\bin\x86\Debug\Gravitation.exe
+C:\Users\Daniel\My Dropbox\Programme\C# XNA\Bildschirmschoner Weltraum\Gravitation\Gravitation\bin\x86\Debug\Gravitation.pdb
+C:\Users\Daniel\My Dropbox\Programme\C# XNA\Bildschirmschoner Weltraum\Gravitation\Gravitation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel\My Dropbox\Programme\C# XNA\Bildschirmschoner Weltraum\Gravitation\Gravitation\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Daniel\My Dropbox\Programme\C# XNA\Bildschirmschoner Weltraum\Gravitation\Gravitation\obj\x86\Debug\Gravitation.exe
+C:\Users\Daniel\My Dropbox\Programme\C# XNA\Bildschirmschoner Weltraum\Gravitation\Gravitation\obj\x86\Debug\Gravitation.pdb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\C# XNA\Bildschirmschoner Weltraum\Gravitation\Gravitation\bin\x86\Debug\Content\Plasma Hintergrund.xnb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\C# XNA\Bildschirmschoner Weltraum\Gravitation\Gravitation\bin\x86\Debug\Content\Plasma Weiss.xnb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\C# XNA\Bildschirmschoner Weltraum\Gravitation\Gravitation\bin\x86\Debug\Content\Plasma1.xnb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\C# XNA\Bildschirmschoner Weltraum\Gravitation\Gravitation\bin\x86\Debug\Content\Plasma2.xnb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\C# XNA\Bildschirmschoner Weltraum\Gravitation\Gravitation\bin\x86\Debug\Content\Plasmagreen1.xnb
+C:\Users\Daniel\My Dropbox\Programme\C# XNA\Bildschirmschoner Weltraum\Gravitation\Gravitation\bin\x86\Debug\Content\Plasma Hintergrund.xnb
+C:\Users\Daniel\My Dropbox\Programme\C# XNA\Bildschirmschoner Weltraum\Gravitation\Gravitation\bin\x86\Debug\Content\Plasma Weiss.xnb
+C:\Users\Daniel\My Dropbox\Programme\C# XNA\Bildschirmschoner Weltraum\Gravitation\Gravitation\bin\x86\Debug\Content\Plasma1.xnb
+C:\Users\Daniel\My Dropbox\Programme\C# XNA\Bildschirmschoner Weltraum\Gravitation\Gravitation\bin\x86\Debug\Content\Plasma2.xnb
+C:\Users\Daniel\My Dropbox\Programme\C# XNA\Bildschirmschoner Weltraum\Gravitation\Gravitation\bin\x86\Debug\Content\Plasmagreen1.xnb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\Collection\Bildschirmschoner Weltraum\Gravitation\Gravitation\bin\x86\Debug\Content\Earth.xnb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\Collection\Bildschirmschoner Weltraum\Gravitation\Gravitation\bin\x86\Debug\Content\Sun.xnb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\Collection\Bildschirmschoner Weltraum\Gravitation\Gravitation\bin\x86\Debug\Content\Galaxy.xnb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\Collection\Bildschirmschoner Weltraum\Gravitation\Gravitation\bin\x86\Debug\Content\explosion.xnb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\Collection\Bildschirmschoner Weltraum\Gravitation\Gravitation\bin\x86\Debug\Content\Plasma Hintergrund.xnb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\Collection\Bildschirmschoner Weltraum\Gravitation\Gravitation\bin\x86\Debug\Content\Plasma Weiss.xnb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\Collection\Bildschirmschoner Weltraum\Gravitation\Gravitation\bin\x86\Debug\Content\Plasma1.xnb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\Collection\Bildschirmschoner Weltraum\Gravitation\Gravitation\bin\x86\Debug\Content\Plasma2.xnb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\Collection\Bildschirmschoner Weltraum\Gravitation\Gravitation\bin\x86\Debug\Content\Plasmagreen1.xnb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\Collection\Bildschirmschoner Weltraum\Gravitation\Gravitation\bin\x86\Debug\Gravitation.exe
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\Collection\Bildschirmschoner Weltraum\Gravitation\Gravitation\bin\x86\Debug\Gravitation.pdb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\Collection\Bildschirmschoner Weltraum\Gravitation\Gravitation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\Collection\Bildschirmschoner Weltraum\Gravitation\Gravitation\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\Collection\Bildschirmschoner Weltraum\Gravitation\Gravitation\obj\x86\Debug\Gravitation.exe
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\Collection\Bildschirmschoner Weltraum\Gravitation\Gravitation\obj\x86\Debug\Gravitation.pdb
