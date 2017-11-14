@@ -1,0 +1,10 @@
+C:\Documents and Settings\nzwygd\Desktop\XNAtutorial\XNAtutorial\XNAtutorialContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\XNAtutorial\XNAtutorial\XNAtutorialContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\C# XNA\XNAtutorial\XNAtutorial\XNAtutorialContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel\My Dropbox\Programme\C# XNA\XNAtutorial\XNAtutorial\XNAtutorialContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\Collection\XNAtutorial\XNAtutorial\XNAtutorialContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel\My Dropbox\Programme\Collection\XNAtutorial\XNAtutorial\XNAtutorialContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel\My Dropbox\Work\Programmieren\Collection\XNAtutorial\XNAtutorial\XNAtutorialContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\Collection\XNAtutorial\XNAtutorial\XNAtutorialContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\Collection_exe_installer\Collection\XNAtutorial\XNAtutorial\XNAtutorialContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel\Dropbox\Work\Programmieren\Collection_exe_installer\Collection\XNAtutorial\XNAtutorial\XNAtutorialContent\obj\x86\Debug\XNAtutorialContent.contentprojResolveAssemblyReference.cache

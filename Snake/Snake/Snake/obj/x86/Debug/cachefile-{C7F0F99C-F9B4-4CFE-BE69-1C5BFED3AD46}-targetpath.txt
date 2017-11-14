@@ -1,0 +1,8 @@
+Content\Body.xnb
+Content\Egg.xnb
+Content\Head_up.xnb
+Content\Tail.xnb
+Content\Head_left.xnb
+Content\Head_down.xnb
+Content\Head_right.xnb
+Content\Snake.xnb

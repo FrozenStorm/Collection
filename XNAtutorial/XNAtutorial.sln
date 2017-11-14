@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XNAtutorial", "XNAtutorial\XNAtutorial\XNAtutorial.csproj", "{1E249701-5740-4DA0-8A2B-F77DFA681E9A}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "XNAtutorialContent", "XNAtutorial\XNAtutorialContent\XNAtutorialContent.contentproj", "{32D10146-7337-44E4-80D8-1687E7FADD9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E249701-5740-4DA0-8A2B-F77DFA681E9A}.Debug|x86.ActiveCfg = Debug|x86
+		{1E249701-5740-4DA0-8A2B-F77DFA681E9A}.Debug|x86.Build.0 = Debug|x86
+		{1E249701-5740-4DA0-8A2B-F77DFA681E9A}.Release|x86.ActiveCfg = Release|x86
+		{1E249701-5740-4DA0-8A2B-F77DFA681E9A}.Release|x86.Build.0 = Release|x86
+		{32D10146-7337-44E4-80D8-1687E7FADD9F}.Debug|x86.ActiveCfg = Debug|x86
+		{32D10146-7337-44E4-80D8-1687E7FADD9F}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

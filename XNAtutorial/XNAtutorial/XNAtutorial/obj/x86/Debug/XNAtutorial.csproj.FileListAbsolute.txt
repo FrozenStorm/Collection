@@ -1,0 +1,148 @@
+C:\Documents and Settings\nzwygd\Desktop\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\XNAtutorial.exe
+C:\Documents and Settings\nzwygd\Desktop\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\XNAtutorial.pdb
+C:\Documents and Settings\nzwygd\Desktop\XNAtutorial\XNAtutorial\XNAtutorial\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\nzwygd\Desktop\XNAtutorial\XNAtutorial\XNAtutorial\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\nzwygd\Desktop\XNAtutorial\XNAtutorial\XNAtutorial\obj\x86\Debug\XNAtutorial.exe
+C:\Documents and Settings\nzwygd\Desktop\XNAtutorial\XNAtutorial\XNAtutorial\obj\x86\Debug\XNAtutorial.pdb
+C:\Documents and Settings\nzwygd\Desktop\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\background.xnb
+C:\Documents and Settings\nzwygd\Desktop\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\foreground.xnb
+C:\Documents and Settings\nzwygd\Desktop\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\cannon.xnb
+C:\Documents and Settings\nzwygd\Desktop\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\carriage.xnb
+C:\Documents and Settings\nzwygd\Desktop\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\rocket.xnb
+C:\Documents and Settings\nzwygd\Desktop\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\smoke.xnb
+C:\Documents and Settings\nzwygd\Desktop\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\ground.xnb
+C:\Documents and Settings\nzwygd\Desktop\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\myFont.xnb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\background.xnb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\foreground.xnb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\cannon.xnb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\carriage.xnb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\rocket.xnb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\smoke.xnb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\ground.xnb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\myFont.xnb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\XNAtutorial.exe
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\XNAtutorial.pdb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\XNAtutorial\XNAtutorial\XNAtutorial\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\XNAtutorial\XNAtutorial\XNAtutorial\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\XNAtutorial\XNAtutorial\XNAtutorial\obj\x86\Debug\XNAtutorial.exe
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\XNAtutorial\XNAtutorial\XNAtutorial\obj\x86\Debug\XNAtutorial.pdb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\C# XNA\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\background.xnb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\C# XNA\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\foreground.xnb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\C# XNA\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\cannon.xnb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\C# XNA\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\carriage.xnb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\C# XNA\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\rocket.xnb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\C# XNA\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\smoke.xnb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\C# XNA\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\ground.xnb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\C# XNA\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\myFont.xnb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\C# XNA\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\XNAtutorial.exe
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\C# XNA\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\XNAtutorial.pdb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\C# XNA\XNAtutorial\XNAtutorial\XNAtutorial\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\C# XNA\XNAtutorial\XNAtutorial\XNAtutorial\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\C# XNA\XNAtutorial\XNAtutorial\XNAtutorial\obj\x86\Debug\XNAtutorial.exe
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\C# XNA\XNAtutorial\XNAtutorial\XNAtutorial\obj\x86\Debug\XNAtutorial.pdb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\C# XNA\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\explosion.xnb
+C:\Users\Daniel\My Dropbox\Programme\C# XNA\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\background.xnb
+C:\Users\Daniel\My Dropbox\Programme\C# XNA\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\foreground.xnb
+C:\Users\Daniel\My Dropbox\Programme\C# XNA\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\cannon.xnb
+C:\Users\Daniel\My Dropbox\Programme\C# XNA\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\carriage.xnb
+C:\Users\Daniel\My Dropbox\Programme\C# XNA\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\rocket.xnb
+C:\Users\Daniel\My Dropbox\Programme\C# XNA\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\smoke.xnb
+C:\Users\Daniel\My Dropbox\Programme\C# XNA\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\ground.xnb
+C:\Users\Daniel\My Dropbox\Programme\C# XNA\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\explosion.xnb
+C:\Users\Daniel\My Dropbox\Programme\C# XNA\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\myFont.xnb
+C:\Users\Daniel\My Dropbox\Programme\C# XNA\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\XNAtutorial.exe
+C:\Users\Daniel\My Dropbox\Programme\C# XNA\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\XNAtutorial.pdb
+C:\Users\Daniel\My Dropbox\Programme\C# XNA\XNAtutorial\XNAtutorial\XNAtutorial\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel\My Dropbox\Programme\C# XNA\XNAtutorial\XNAtutorial\XNAtutorial\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Daniel\My Dropbox\Programme\C# XNA\XNAtutorial\XNAtutorial\XNAtutorial\obj\x86\Debug\XNAtutorial.exe
+C:\Users\Daniel\My Dropbox\Programme\C# XNA\XNAtutorial\XNAtutorial\XNAtutorial\obj\x86\Debug\XNAtutorial.pdb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\Collection\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\background.xnb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\Collection\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\foreground.xnb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\Collection\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\cannon.xnb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\Collection\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\carriage.xnb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\Collection\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\rocket.xnb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\Collection\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\smoke.xnb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\Collection\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\ground.xnb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\Collection\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\explosion.xnb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\Collection\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\myFont.xnb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\Collection\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\XNAtutorial.exe
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\Collection\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\XNAtutorial.pdb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\Collection\XNAtutorial\XNAtutorial\XNAtutorial\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\Collection\XNAtutorial\XNAtutorial\XNAtutorial\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\Collection\XNAtutorial\XNAtutorial\XNAtutorial\obj\x86\Debug\XNAtutorial.exe
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\Collection\XNAtutorial\XNAtutorial\XNAtutorial\obj\x86\Debug\XNAtutorial.pdb
+C:\Users\Daniel\My Dropbox\Programme\Collection\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\background.xnb
+C:\Users\Daniel\My Dropbox\Programme\Collection\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\foreground.xnb
+C:\Users\Daniel\My Dropbox\Programme\Collection\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\cannon.xnb
+C:\Users\Daniel\My Dropbox\Programme\Collection\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\carriage.xnb
+C:\Users\Daniel\My Dropbox\Programme\Collection\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\rocket.xnb
+C:\Users\Daniel\My Dropbox\Programme\Collection\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\smoke.xnb
+C:\Users\Daniel\My Dropbox\Programme\Collection\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\ground.xnb
+C:\Users\Daniel\My Dropbox\Programme\Collection\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\explosion.xnb
+C:\Users\Daniel\My Dropbox\Programme\Collection\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\myFont.xnb
+C:\Users\Daniel\My Dropbox\Programme\Collection\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\XNAtutorial.exe
+C:\Users\Daniel\My Dropbox\Programme\Collection\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\XNAtutorial.pdb
+C:\Users\Daniel\My Dropbox\Programme\Collection\XNAtutorial\XNAtutorial\XNAtutorial\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel\My Dropbox\Programme\Collection\XNAtutorial\XNAtutorial\XNAtutorial\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Daniel\My Dropbox\Programme\Collection\XNAtutorial\XNAtutorial\XNAtutorial\obj\x86\Debug\XNAtutorial.exe
+C:\Users\Daniel\My Dropbox\Programme\Collection\XNAtutorial\XNAtutorial\XNAtutorial\obj\x86\Debug\XNAtutorial.pdb
+C:\Users\Daniel\My Dropbox\Work\Programmieren\Collection\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\background.xnb
+C:\Users\Daniel\My Dropbox\Work\Programmieren\Collection\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\foreground.xnb
+C:\Users\Daniel\My Dropbox\Work\Programmieren\Collection\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\cannon.xnb
+C:\Users\Daniel\My Dropbox\Work\Programmieren\Collection\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\carriage.xnb
+C:\Users\Daniel\My Dropbox\Work\Programmieren\Collection\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\rocket.xnb
+C:\Users\Daniel\My Dropbox\Work\Programmieren\Collection\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\smoke.xnb
+C:\Users\Daniel\My Dropbox\Work\Programmieren\Collection\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\ground.xnb
+C:\Users\Daniel\My Dropbox\Work\Programmieren\Collection\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\explosion.xnb
+C:\Users\Daniel\My Dropbox\Work\Programmieren\Collection\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\myFont.xnb
+C:\Users\Daniel\My Dropbox\Work\Programmieren\Collection\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\XNAtutorial.exe
+C:\Users\Daniel\My Dropbox\Work\Programmieren\Collection\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\XNAtutorial.pdb
+C:\Users\Daniel\My Dropbox\Work\Programmieren\Collection\XNAtutorial\XNAtutorial\XNAtutorial\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel\My Dropbox\Work\Programmieren\Collection\XNAtutorial\XNAtutorial\XNAtutorial\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Daniel\My Dropbox\Work\Programmieren\Collection\XNAtutorial\XNAtutorial\XNAtutorial\obj\x86\Debug\XNAtutorial.exe
+C:\Users\Daniel\My Dropbox\Work\Programmieren\Collection\XNAtutorial\XNAtutorial\XNAtutorial\obj\x86\Debug\XNAtutorial.pdb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\Collection\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\background.xnb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\Collection\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\foreground.xnb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\Collection\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\cannon.xnb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\Collection\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\carriage.xnb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\Collection\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\rocket.xnb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\Collection\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\smoke.xnb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\Collection\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\ground.xnb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\Collection\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\explosion.xnb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\Collection\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\myFont.xnb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\Collection\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\XNAtutorial.exe
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\Collection\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\XNAtutorial.pdb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\Collection\XNAtutorial\XNAtutorial\XNAtutorial\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\Collection\XNAtutorial\XNAtutorial\XNAtutorial\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\Collection\XNAtutorial\XNAtutorial\XNAtutorial\obj\x86\Debug\XNAtutorial.exe
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\Collection\XNAtutorial\XNAtutorial\XNAtutorial\obj\x86\Debug\XNAtutorial.pdb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\Collection_exe_installer\Collection\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\background.xnb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\Collection_exe_installer\Collection\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\foreground.xnb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\Collection_exe_installer\Collection\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\cannon.xnb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\Collection_exe_installer\Collection\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\carriage.xnb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\Collection_exe_installer\Collection\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\rocket.xnb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\Collection_exe_installer\Collection\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\smoke.xnb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\Collection_exe_installer\Collection\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\ground.xnb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\Collection_exe_installer\Collection\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\explosion.xnb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\Collection_exe_installer\Collection\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\myFont.xnb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\Collection_exe_installer\Collection\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\XNAtutorial.exe
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\Collection_exe_installer\Collection\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\XNAtutorial.pdb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\Collection_exe_installer\Collection\XNAtutorial\XNAtutorial\XNAtutorial\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\Collection_exe_installer\Collection\XNAtutorial\XNAtutorial\XNAtutorial\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\Collection_exe_installer\Collection\XNAtutorial\XNAtutorial\XNAtutorial\obj\x86\Debug\XNAtutorial.exe
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\Collection_exe_installer\Collection\XNAtutorial\XNAtutorial\XNAtutorial\obj\x86\Debug\XNAtutorial.pdb
+C:\Users\Daniel\Dropbox\Work\Programmieren\Collection_exe_installer\Collection\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\background.xnb
+C:\Users\Daniel\Dropbox\Work\Programmieren\Collection_exe_installer\Collection\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\foreground.xnb
+C:\Users\Daniel\Dropbox\Work\Programmieren\Collection_exe_installer\Collection\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\cannon.xnb
+C:\Users\Daniel\Dropbox\Work\Programmieren\Collection_exe_installer\Collection\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\carriage.xnb
+C:\Users\Daniel\Dropbox\Work\Programmieren\Collection_exe_installer\Collection\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\rocket.xnb
+C:\Users\Daniel\Dropbox\Work\Programmieren\Collection_exe_installer\Collection\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\smoke.xnb
+C:\Users\Daniel\Dropbox\Work\Programmieren\Collection_exe_installer\Collection\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\ground.xnb
+C:\Users\Daniel\Dropbox\Work\Programmieren\Collection_exe_installer\Collection\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\explosion.xnb
+C:\Users\Daniel\Dropbox\Work\Programmieren\Collection_exe_installer\Collection\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\Content\myFont.xnb
+C:\Users\Daniel\Dropbox\Work\Programmieren\Collection_exe_installer\Collection\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\XNAtutorial.exe
+C:\Users\Daniel\Dropbox\Work\Programmieren\Collection_exe_installer\Collection\XNAtutorial\XNAtutorial\XNAtutorial\bin\x86\Debug\XNAtutorial.pdb
+C:\Users\Daniel\Dropbox\Work\Programmieren\Collection_exe_installer\Collection\XNAtutorial\XNAtutorial\XNAtutorial\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Daniel\Dropbox\Work\Programmieren\Collection_exe_installer\Collection\XNAtutorial\XNAtutorial\XNAtutorial\obj\x86\Debug\XNAtutorial.exe
+C:\Users\Daniel\Dropbox\Work\Programmieren\Collection_exe_installer\Collection\XNAtutorial\XNAtutorial\XNAtutorial\obj\x86\Debug\XNAtutorial.pdb
+C:\Users\Daniel\Dropbox\Work\Programmieren\Collection_exe_installer\Collection\XNAtutorial\XNAtutorial\XNAtutorial\obj\x86\Debug\XNAtutorial.csprojResolveAssemblyReference.cache

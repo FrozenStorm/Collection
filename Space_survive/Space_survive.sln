@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Space_survive", "Space_survive\Space_survive\Space_survive.csproj", "{DDC1EB02-1E38-4D14-8015-8B248C83D032}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Space_surviveContent", "Space_survive\Space_surviveContent\Space_surviveContent.contentproj", "{B59BBD21-1191-4950-9EA0-B38F039CBA97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDC1EB02-1E38-4D14-8015-8B248C83D032}.Debug|x86.ActiveCfg = Debug|x86
+		{DDC1EB02-1E38-4D14-8015-8B248C83D032}.Debug|x86.Build.0 = Debug|x86
+		{DDC1EB02-1E38-4D14-8015-8B248C83D032}.Release|x86.ActiveCfg = Release|x86
+		{DDC1EB02-1E38-4D14-8015-8B248C83D032}.Release|x86.Build.0 = Release|x86
+		{B59BBD21-1191-4950-9EA0-B38F039CBA97}.Debug|x86.ActiveCfg = Debug|x86
+		{B59BBD21-1191-4950-9EA0-B38F039CBA97}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

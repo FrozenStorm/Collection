@@ -1,0 +1,258 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{5B9A00A0-3D80-4778-9637-3EC665D0ADD4}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Collection</RootNamespace>
+    <AssemblyName>Collection</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Documents and Settings\nzwygd\Desktop\</PublishUrl>
+    <Install>false</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <UpdateUrl>http://www.supertoub.heliohost.org/</UpdateUrl>
+    <WebPage>publish.htm</WebPage>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>C_Icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>2BD9D0805E87C69F6DD72D9E00D4F9821267B937</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Collection_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Collection_TemporaryKey.pfx" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\3D Maze Map\3D Maze Map\3D Maze Map.csproj">
+      <Project>{0015A44D-ED52-43D5-8CB8-5262FDEA1930}</Project>
+      <Name>3D Maze Map</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\3D Sinus und Steuerung\Series3D1\Series3D1\Series3D1.csproj">
+      <Project>{D04973C4-CDC7-4F33-8754-690A8B4D07C8}</Project>
+      <Name>Series3D1</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\3D-Erde\3D-Erde\3D-Erde\3D-Erde.csproj">
+      <Project>{51E043A7-A5FD-4D53-BA2B-EE14272E31BF}</Project>
+      <Name>3D-Erde</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Animated Moorhuhn\Moorhuhn\Moorhuhn.csproj">
+      <Project>{FD38A1C8-76B4-4AB2-9072-D13A588170ED}</Project>
+      <Name>Moorhuhn</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Ausbreitung\Ausbreitung\Ausbreitung.csproj">
+      <Project>{3ACA95DD-E27E-4CF7-A585-72D45CDE4F0B}</Project>
+      <Name>Ausbreitung</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Ball\Ball\Ball\Ball.csproj">
+      <Project>{4BECB51A-0080-4A23-83E7-3EF10383B360}</Project>
+      <Name>Ball</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Bildschirmschoner Weltraum\Gravitation\Gravitation\Weltraum-Bildschirmschoner.csproj">
+      <Project>{6BE3AC5B-227C-4625-8CAC-41CFD17F470D}</Project>
+      <Name>Weltraum-Bildschirmschoner</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Conways Spiel des Lebens\Conways Spiel des Lebens\Conways Spiel des Lebens.csproj">
+      <Project>{5827901F-8BDB-4F1D-B520-3C0FB1274FB3}</Project>
+      <Name>Conways Spiel des Lebens</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Game-Engine\Game-Engine\Game-Engine.csproj">
+      <Project>{70232A94-F86E-4C70-A4A3-21A68D66649A}</Project>
+      <Name>Game-Engine</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Maze Generator\Maze Generator\Maze Generator.csproj">
+      <Project>{C11ACF7D-5C5A-482B-B8B8-4C24A0389F70}</Project>
+      <Name>Maze Generator</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Primzahlen\Primzahlen.csproj">
+      <Project>{35D388E4-907A-41D9-AF94-460805BE2E47}</Project>
+      <Name>Primzahlen</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Snake\Snake\Snake\Snake.csproj">
+      <Project>{D52B42CF-85B7-4573-BDAA-FCB36D953D04}</Project>
+      <Name>Snake</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Space_survive\Space_survive\Space_survive\Space_survive.csproj">
+      <Project>{DDC1EB02-1E38-4D14-8015-8B248C83D032}</Project>
+      <Name>Space_survive</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Stämme\Stämme\Stämme\Stämme.csproj">
+      <Project>{D307A731-E165-40CE-8BBE-ED912E274288}</Project>
+      <Name>Stämme</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Tileset\Tileset\Tileset.csproj">
+      <Project>{E836DE35-D8D6-4028-BF85-0702CE1C653A}</Project>
+      <Name>Tileset</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Tron 2 Spieler\Tron\Tron\Tron.csproj">
+      <Project>{9DF6C305-EE83-4125-A793-3846335497C9}</Project>
+      <Name>Tron</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Wachstum\Wachstum\Wachstum.csproj">
+      <Project>{C3E19BD9-8063-491C-888F-B826441E54B3}</Project>
+      <Name>Wachstum</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Walking-Man\Walking-Man\Walking-Man.csproj">
+      <Project>{937F9B47-E90B-453B-9C4C-F95F995E47F9}</Project>
+      <Name>Walking-Man</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Wator\Wator\Wator.csproj">
+      <Project>{2B9FBDC7-FFAF-4237-A7CF-09826ADCFB45}</Project>
+      <Name>Wator</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Wild durcheinander V2\Wild durcheinander.csproj">
+      <Project>{6BD662DD-2AB0-4D67-AE61-2A17BD51512B}</Project>
+      <Name>Wild durcheinander</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\XNAtutorial\XNAtutorial\XNAtutorial\XNAtutorial.csproj">
+      <Project>{1E249701-5740-4DA0-8A2B-F77DFA681E9A}</Project>
+      <Name>XNAtutorial</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Stämme1.png" />
+    <None Include="Resources\Stämme.png" />
+    <None Include="Resources\Snake.png" />
+    <None Include="Resources\Ausbreitung.png" />
+    <None Include="Resources\3D-Erde.png" />
+    <None Include="Resources\Primzahlen.png" />
+    <None Include="Resources\Tileset.png" />
+    <None Include="Resources\Space-survive.png" />
+    <None Include="Resources\Ball.png" />
+    <None Include="Resources\Walking-Man.png" />
+    <None Include="Resources\3D_Maze.png" />
+    <None Include="Resources\Wild durcheinander.png" />
+    <None Include="Resources\Weltraum-Bildschirmschoner.png" />
+    <None Include="Resources\Wator.png" />
+    <None Include="Resources\Tron.png" />
+    <None Include="Resources\Sinus 3D.png" />
+    <None Include="Resources\Nop.png" />
+    <None Include="Resources\Moorhuhn.png" />
+    <None Include="Resources\Maze.png" />
+    <None Include="Resources\Game-Engine.png" />
+    <None Include="Resources\Evolution.png" />
+    <None Include="Resources\Conway.png" />
+    <None Include="Resources\XNAtutorial.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 und x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="C_Icon.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

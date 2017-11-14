@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Bike_1.png</Source>
+      <Name>Bike_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Dropbox\Work\Programmieren\Collection_exe_installer\Collection\Tron 2 Spieler\Tron\Tron\bin\x86\Debug\Content\Bike_1.xnb</Output>
+      <Time>2011-02-17T13:59:28+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Linie_1.png</Source>
+      <Name>Linie_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Dropbox\Work\Programmieren\Collection_exe_installer\Collection\Tron 2 Spieler\Tron\Tron\bin\x86\Debug\Content\Linie_1.xnb</Output>
+      <Time>2011-02-17T14:01:40+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Hintergrund_1.png</Source>
+      <Name>Hintergrund_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Dropbox\Work\Programmieren\Collection_exe_installer\Collection\Tron 2 Spieler\Tron\Tron\bin\x86\Debug\Content\Hintergrund_1.xnb</Output>
+      <Time>2011-02-17T13:59:47+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Vorlage_Level.png</Source>
+      <Name>Vorlage_Level</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Dropbox\Work\Programmieren\Collection_exe_installer\Collection\Tron 2 Spieler\Tron\Tron\bin\x86\Debug\Content\Vorlage_Level.xnb</Output>
+      <Time>2011-02-17T12:37:13+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Level_1.png</Source>
+      <Name>Level_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Dropbox\Work\Programmieren\Collection_exe_installer\Collection\Tron 2 Spieler\Tron\Tron\bin\x86\Debug\Content\Level_1.xnb</Output>
+      <Time>2011-02-17T13:02:19+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Level_2.png</Source>
+      <Name>Level_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Dropbox\Work\Programmieren\Collection_exe_installer\Collection\Tron 2 Spieler\Tron\Tron\bin\x86\Debug\Content\Level_2.xnb</Output>
+      <Time>2011-02-17T13:51:49+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Linie_Default.png</Source>
+      <Name>Linie_Default</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Dropbox\Work\Programmieren\Collection_exe_installer\Collection\Tron 2 Spieler\Tron\Tron\bin\x86\Debug\Content\Linie_Default.xnb</Output>
+      <Time>2011-02-17T13:57:56+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Bike_Default.png</Source>
+      <Name>Bike_Default</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Dropbox\Work\Programmieren\Collection_exe_installer\Collection\Tron 2 Spieler\Tron\Tron\bin\x86\Debug\Content\Bike_Default.xnb</Output>
+      <Time>2011-02-17T13:58:03+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Hintergrund_Default.png</Source>
+      <Name>Hintergrund_Default</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Dropbox\Work\Programmieren\Collection_exe_installer\Collection\Tron 2 Spieler\Tron\Tron\bin\x86\Debug\Content\Hintergrund_Default.xnb</Output>
+      <Time>2011-02-17T13:58:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Level_Default.png</Source>
+      <Name>Level_Default</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Dropbox\Work\Programmieren\Collection_exe_installer\Collection\Tron 2 Spieler\Tron\Tron\bin\x86\Debug\Content\Level_Default.xnb</Output>
+      <Time>2011-02-17T14:02:07+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Level_3.png</Source>
+      <Name>Level_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Dropbox\Work\Programmieren\Collection_exe_installer\Collection\Tron 2 Spieler\Tron\Tron\bin\x86\Debug\Content\Level_3.xnb</Output>
+      <Time>2011-02-18T08:19:58+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Bike_3.png</Source>
+      <Name>Bike_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Dropbox\Work\Programmieren\Collection_exe_installer\Collection\Tron 2 Spieler\Tron\Tron\bin\x86\Debug\Content\Bike_3.xnb</Output>
+      <Time>2011-02-18T08:24:29+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Hintergrund_3.png</Source>
+      <Name>Hintergrund_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Dropbox\Work\Programmieren\Collection_exe_installer\Collection\Tron 2 Spieler\Tron\Tron\bin\x86\Debug\Content\Hintergrund_3.xnb</Output>
+      <Time>2011-02-18T08:25:15+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Linie_3.png</Source>
+      <Name>Linie_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Dropbox\Work\Programmieren\Collection_exe_installer\Collection\Tron 2 Spieler\Tron\Tron\bin\x86\Debug\Content\Linie_3.xnb</Output>
+      <Time>2011-02-18T08:29:02+01:00</Time>
+    </Item>
+    <Item>
+      <Source>myFont.spritefont</Source>
+      <Name>myFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Dropbox\Work\Programmieren\Collection_exe_installer\Collection\Tron 2 Spieler\Tron\Tron\bin\x86\Debug\Content\myFont.xnb</Output>
+      <Time>2011-02-17T13:04:36+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\Daniel\Dropbox\Work\Programmieren\Collection_exe_installer\Collection\Tron 2 Spieler\Tron\TronContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Daniel\Dropbox\Work\Programmieren\Collection_exe_installer\Collection\Tron 2 Spieler\Tron\Tron\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Daniel\Dropbox\Work\Programmieren\Collection_exe_installer\Collection\Tron 2 Spieler\Tron\TronContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Daniel\Dropbox\Work\Programmieren\Collection_exe_installer\Collection\Tron 2 Spieler\Tron\Tron\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-02-06T16:46:25.2076092+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

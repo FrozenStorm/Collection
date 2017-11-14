@@ -1,0 +1,35 @@
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\Collection\Walking-Man\Walking-Man\bin\x86\Debug\Content\Spires_America_Hero_Stephen_Colbert.xnb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\Collection\Walking-Man\Walking-Man\bin\x86\Debug\Content\Spires_America_Hero_Stephen_Packed1.xnb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\Collection\Walking-Man\Walking-Man\bin\x86\Debug\Walking-Man.exe
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\Collection\Walking-Man\Walking-Man\bin\x86\Debug\Walking-Man.pdb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\Collection\Walking-Man\Walking-Man\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\Collection\Walking-Man\Walking-Man\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\Collection\Walking-Man\Walking-Man\obj\x86\Debug\Walking-Man.exe
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\Collection\Walking-Man\Walking-Man\obj\x86\Debug\Walking-Man.pdb
+C:\Users\Daniel\My Dropbox\Work\Programmieren\Collection\Walking-Man\Walking-Man\bin\x86\Debug\Content\Spires_America_Hero_Stephen_Colbert.xnb
+C:\Users\Daniel\My Dropbox\Work\Programmieren\Collection\Walking-Man\Walking-Man\bin\x86\Debug\Content\Spires_America_Hero_Stephen_Packed1.xnb
+C:\Users\Daniel\My Dropbox\Work\Programmieren\Collection\Walking-Man\Walking-Man\bin\x86\Debug\Walking-Man.exe
+C:\Users\Daniel\My Dropbox\Work\Programmieren\Collection\Walking-Man\Walking-Man\bin\x86\Debug\Walking-Man.pdb
+C:\Users\Daniel\My Dropbox\Work\Programmieren\Collection\Walking-Man\Walking-Man\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel\My Dropbox\Work\Programmieren\Collection\Walking-Man\Walking-Man\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Daniel\My Dropbox\Work\Programmieren\Collection\Walking-Man\Walking-Man\obj\x86\Debug\Walking-Man.exe
+C:\Users\Daniel\My Dropbox\Work\Programmieren\Collection\Walking-Man\Walking-Man\obj\x86\Debug\Walking-Man.pdb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\Collection\Walking-Man\Walking-Man\bin\x86\Debug\Content\fireloopsheetmarked.xnb
+C:\Users\Daniel\My Dropbox\Work\Programmieren\Collection\Walking-Man\Walking-Man\bin\x86\Debug\Content\fireloopsheetmarked.xnb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\Collection_exe_installer\Collection\Walking-Man\Walking-Man\bin\x86\Debug\Content\Spires_America_Hero_Stephen_Colbert.xnb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\Collection_exe_installer\Collection\Walking-Man\Walking-Man\bin\x86\Debug\Content\Spires_America_Hero_Stephen_Packed1.xnb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\Collection_exe_installer\Collection\Walking-Man\Walking-Man\bin\x86\Debug\Content\fireloopsheetmarked.xnb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\Collection_exe_installer\Collection\Walking-Man\Walking-Man\bin\x86\Debug\Walking-Man.exe
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\Collection_exe_installer\Collection\Walking-Man\Walking-Man\bin\x86\Debug\Walking-Man.pdb
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\Collection_exe_installer\Collection\Walking-Man\Walking-Man\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\Collection_exe_installer\Collection\Walking-Man\Walking-Man\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\Collection_exe_installer\Collection\Walking-Man\Walking-Man\obj\x86\Debug\Walking-Man.exe
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\Collection_exe_installer\Collection\Walking-Man\Walking-Man\obj\x86\Debug\Walking-Man.pdb
+C:\Users\Daniel\Dropbox\Work\Programmieren\Collection_exe_installer\Collection\Walking-Man\Walking-Man\bin\x86\Debug\Content\Spires_America_Hero_Stephen_Colbert.xnb
+C:\Users\Daniel\Dropbox\Work\Programmieren\Collection_exe_installer\Collection\Walking-Man\Walking-Man\bin\x86\Debug\Content\Spires_America_Hero_Stephen_Packed1.xnb
+C:\Users\Daniel\Dropbox\Work\Programmieren\Collection_exe_installer\Collection\Walking-Man\Walking-Man\bin\x86\Debug\Content\fireloopsheetmarked.xnb
+C:\Users\Daniel\Dropbox\Work\Programmieren\Collection_exe_installer\Collection\Walking-Man\Walking-Man\bin\x86\Debug\Walking-Man.exe
+C:\Users\Daniel\Dropbox\Work\Programmieren\Collection_exe_installer\Collection\Walking-Man\Walking-Man\bin\x86\Debug\Walking-Man.pdb
+C:\Users\Daniel\Dropbox\Work\Programmieren\Collection_exe_installer\Collection\Walking-Man\Walking-Man\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Daniel\Dropbox\Work\Programmieren\Collection_exe_installer\Collection\Walking-Man\Walking-Man\obj\x86\Debug\Walking-Man.exe
+C:\Users\Daniel\Dropbox\Work\Programmieren\Collection_exe_installer\Collection\Walking-Man\Walking-Man\obj\x86\Debug\Walking-Man.pdb

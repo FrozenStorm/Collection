@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Collection">
+</Property><Property Name="Projektmappendatei" Value="C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\Collection\Collection.sln">
+</Property><Property Name="Date" Value="Donnerstag, 21. April 2011">
+</Property><Property Name="Time" Value="16:17:24">
+</Property><Property Name="Protokollnummer" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="Primzahlen" Source="Primzahlen\Primzahlen.csproj" Description="Projektdatei erfolgreich gesichert als C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\Collection\Backup\Primzahlen.csproj">
+</Event><Event ErrorLevel="0" Project="Primzahlen" Source="Primzahlen\Primzahlen.csproj.user" Description="Die Projektbenutzerdatei wurde erfolgreich als &quot;C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\Collection\Backup\Primzahlen.csproj.user&quot; gesichert.">
+</Event><Event ErrorLevel="0" Project="Primzahlen" Source="Primzahlen\Program.cs" Description="Datei erfolgreich gesichert als C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\Collection\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="Primzahlen" Source="Primzahlen\Properties\AssemblyInfo.cs" Description="Datei erfolgreich gesichert als C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\Collection\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Primzahlen" Source="Primzahlen\Primzahlen.csproj" Description="Projekt erfolgreich konvertiert">
+</Event><Event ErrorLevel="3" Project="Primzahlen" Source="Primzahlen\Primzahlen.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Primzahlen" Source="Primzahlen\Primzahlen.csproj" Description="Überprüfung abgeschlossen: Upgrade der Projektdateien nicht erforderlich.">
+</Event></UpgradeLog>

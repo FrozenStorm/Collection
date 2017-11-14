@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>myFont.spritefont</Source>
+      <Name>myFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Dropbox\Work\Programmieren\Collection_exe_installer\Collection\Space_survive\Space_survive\Space_survive\bin\x86\Debug\Content\myFont.xnb</Output>
+      <Time>2011-04-15T13:11:30+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Space_Ship.png</Source>
+      <Name>Space_Ship</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Dropbox\Work\Programmieren\Collection_exe_installer\Collection\Space_survive\Space_survive\Space_survive\bin\x86\Debug\Content\Space_Ship.xnb</Output>
+      <Time>2011-04-18T10:10:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Hintergrund.jpg</Source>
+      <Name>Hintergrund</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Dropbox\Work\Programmieren\Collection_exe_installer\Collection\Space_survive\Space_survive\Space_survive\bin\x86\Debug\Content\Hintergrund.xnb</Output>
+      <Time>2011-04-18T13:49:38+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Earth.png</Source>
+      <Name>Earth</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Dropbox\Work\Programmieren\Collection_exe_installer\Collection\Space_survive\Space_survive\Space_survive\bin\x86\Debug\Content\Earth.xnb</Output>
+      <Time>2011-04-18T13:42:22+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Moon.png</Source>
+      <Name>Moon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Dropbox\Work\Programmieren\Collection_exe_installer\Collection\Space_survive\Space_survive\Space_survive\bin\x86\Debug\Content\Moon.xnb</Output>
+      <Time>2011-04-18T13:44:36+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sun.png</Source>
+      <Name>Sun</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Daniel\Dropbox\Work\Programmieren\Collection_exe_installer\Collection\Space_survive\Space_survive\Space_survive\bin\x86\Debug\Content\Sun.xnb</Output>
+      <Time>2011-04-18T13:46:13+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Daniel\Dropbox\Work\Programmieren\Collection_exe_installer\Collection\Space_survive\Space_survive\Space_surviveContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Daniel\Dropbox\Work\Programmieren\Collection_exe_installer\Collection\Space_survive\Space_survive\Space_survive\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Daniel\Dropbox\Work\Programmieren\Collection_exe_installer\Collection\Space_survive\Space_survive\Space_surviveContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Daniel\Dropbox\Work\Programmieren\Collection_exe_installer\Collection\Space_survive\Space_survive\Space_survive\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-02-06T16:46:25.2076092+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

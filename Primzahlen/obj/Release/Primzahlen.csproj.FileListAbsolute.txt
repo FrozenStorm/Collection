@@ -1,0 +1,5 @@
+C:\Users\Daniel\Desktop\Primzahlen\bin\Release\Primzahlen.exe
+C:\Users\Daniel\Desktop\Primzahlen\bin\Release\Primzahlen.pdb
+C:\Users\Daniel\Desktop\Primzahlen\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\Primzahlen\obj\Release\Primzahlen.exe
+C:\Users\Daniel\Desktop\Primzahlen\obj\Release\Primzahlen.pdb

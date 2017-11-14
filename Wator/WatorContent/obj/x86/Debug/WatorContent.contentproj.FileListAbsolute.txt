@@ -1,0 +1,3 @@
+C:\Users\Daniel\My Dropbox\Work\Programmieren\Collection\Wator\WatorContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\Collection\Wator\WatorContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\Collection_exe_installer\Collection\Wator\WatorContent\obj\x86\Debug\ResolveAssemblyReference.cache
