@@ -1,0 +1,8 @@
+C:\Documents and Settings\nzwygd\Desktop\Series3D1\Series3D1\Series3D1Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\3D Sinus\Series3D1\Series3D1Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\C# XNA\3D Sinus und Steuerung\Series3D1\Series3D1Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Programme\Collection\3D Sinus und Steuerung\Series3D1\Series3D1Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel\My Dropbox\Programme\Collection\3D Sinus und Steuerung\Series3D1\Series3D1Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel\My Dropbox\Work\Programmieren\Collection\3D Sinus und Steuerung\Series3D1\Series3D1Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\Collection\3D Sinus und Steuerung\Series3D1\Series3D1Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\nzwygd\My Documents\My Dropbox\Work\Programmieren\Collection_exe_installer\Collection\3D Sinus und Steuerung\Series3D1\Series3D1Content\obj\x86\Debug\ResolveAssemblyReference.cache
